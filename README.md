@@ -18,4 +18,6 @@ http://localhost:3000/listofcustomers2
 
 MongoDB database backup is in folder called /dump
 
+The backup of mongodb was created using tool called mongodump. 
+
 
